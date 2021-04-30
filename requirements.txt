@@ -2,6 +2,6 @@ certifi==2019.9.11
 chardet==3.0.4
 idna==2.8
 requests==2.22.0
-urllib3==1.25.6
+urllib3==1.25.8
 virtualenv==16.6.2
 virtualenvwrapper-win==1.2.5
